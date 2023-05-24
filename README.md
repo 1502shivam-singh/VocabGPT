@@ -1,6 +1,6 @@
 # VocabGPT
 
-This REST API based off of ChatGPT is part of my assignment at API7.ai.
+This REST API based off of ChatGPT
 
 Fetches antonyms of a word as array using ChatGPT API
 
